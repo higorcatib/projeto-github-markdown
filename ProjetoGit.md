@@ -1,7 +1,7 @@
 # Olá  vamos começar: 
 
-## **10 melhores ferramentas de programação**
-
+# **10 melhores ferramentas de programação**
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGc4cnMzNThmenFsaXhvbjJydHI5dDNnZjd6cWlkZ3lwYWt4bmN6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7mkFSIIUGl3PYYo4pN/giphy.gif)
 * Visual Studio Code: Um editor de código popular com suporte para várias linguagens e muitos recursos úteis. [💻](https://code.visualstudio.com/)
 
 * Git: Um sistema de controle de versão essencial para gerenciar mudanças no código e colaborar com outros desenvolvedores. [💡](https://git-scm.com/downloads)
